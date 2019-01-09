@@ -1,9 +1,19 @@
-# RecArg1 and arginine depletion in osteoclast differentiation
+# Metabolic Adaptation during Nutrient Scarcity Educates Multinuclear Giant Cell Formation
+
+## Study authors
+
+J.S. Brunner, L. Vulliard, M. Hofmann, M. Kieler, A. Lercher, A. Vogel, M. Kerndl, V. Saferding, B. Niederreiter, A. Frauenstein, C. Scherbel, Y. Mikami, G. Krönke, A. Bergthaler, J.J. O’Shea, T. Weichhart, F. Meissner, J. S. Smolen, P. Cheng, O. Yanes, J. Menche, P. Murray, O. Sharif, S. Blüml* and G. Schabbauer*.
+
+Correspondence to: gernot.schabbauer(at)meduniwien.ac.at and stephan.blueml(at)meduniwien.ac.at.
+
+## Data availability
+
+Proteomics and transcriptomics data were deposited on public repositories and are necessary to reproduce the analyses.
 
 ## Code summary
 
-Several *R* Jupyter notebooks are provided and were used to perform the analyses shown in the paper.  
-All absolute paths used here and in the notebooks must be adapted to your own configuration.
+Several *R* Jupyter notebooks are provided and were used to perform the analyses shown in the corresponding paper.  
+**All absolute paths used here and in the notebooks must be adapted to your own configuration.**
 
 ### RNA-seq analysis
 
