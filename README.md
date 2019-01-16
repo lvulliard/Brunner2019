@@ -8,7 +8,8 @@ Correspondence to: gernot.schabbauer(at)meduniwien.ac.at and stephan.blueml(at)m
 
 ## Data availability
 
-Proteomics and transcriptomics data were deposited on public repositories and are necessary to reproduce the analyses.
+Proteomics and transcriptomics data were deposited on public repositories and are necessary to reproduce the analyses.  
+The RNA-seq data (BAM alignments and feature counts) have been deposited in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [GEO Series accession number GSE125101](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125101).
 
 ## Code summary
 
@@ -17,12 +18,13 @@ Several *R* Jupyter notebooks are provided and were used to perform the analyses
 
 ### RNA-seq analysis
 
-Counts were generated using the *countExons.R* script.  
+Counts were generated using the *countExons.R* script. The corresponding feature counts are available from the GEO repository as well.  
 See *RNA-DiffEq.ipynb*.
 
 ### Proteomics analysis
 
-See *MS-analysis.ipynb*. The statistical tests were done separately using Perseus.
+As described in the methods section of the article, the MS data were processed in Perseus (filtered for coefficients of variation bigger across conditions than between replicates, converted to z-score and compared with t-test between conditions of interest).  
+See *MS-analysis.ipynb* for downstream analysis.
 
 ### Integration
 
