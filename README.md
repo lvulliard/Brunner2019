@@ -1,15 +1,18 @@
-# Metabolic Adaptation during Nutrient Scarcity Educates Multinuclear Giant Cell Formation
+# Environmental Arginine Controls Multinuclear Giant Cell Metabolism and Formation
+
+Nature Communications (in press).
 
 ## Study authors
 
-J.S. Brunner, L. Vulliard, M. Hofmann, M. Kieler, A. Lercher, A. Vogel, M. Kerndl, V. Saferding, B. Niederreiter, A. Frauenstein, C. Scherbel, Y. Mikami, G. Krönke, A. Bergthaler, J.J. O’Shea, T. Weichhart, F. Meissner, J. S. Smolen, P. Cheng, O. Yanes, J. Menche, P. Murray, O. Sharif, S. Blüml* and G. Schabbauer*.
+J.S. Brunner, L. Vulliard, M. Hofmann, M. Kieler, A. Lercher, A. Vogel, M. Russier, J. Brüggenthies, M. Kerndl, V. Saferding, B. Niederreiter, A. Junza, A. Frauenstein, C. Scholtysek, Y. Mikami, K. Klavins, G. Krönke, A. Bergthaler, J.J. O’Shea, T. Weichhart, F. Meissner, J. S. Smolen, P. Cheng, O. Yanes, J. Menche, P. J. Murray, O. Sharif, S. Blüml* and G. Schabbauer*.
 
 Correspondence to: gernot.schabbauer(at)meduniwien.ac.at and stephan.blueml(at)meduniwien.ac.at.
 
 ## Data availability
 
 Proteomics and transcriptomics data were deposited on public repositories and are necessary to reproduce the analyses.  
-The RNA-seq data (BAM alignments and feature counts) have been deposited in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [GEO Series accession number GSE125101](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125101).
+The RNA-seq data (BAM alignments and feature counts) have been deposited in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [GEO Series accession number GSE125101](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125101).  
+The proteomics data have been deposited in the ProteomeXchange Consortium via the PRIDE repository (Vizcaino et al., 2016) and are acessible through dataset identifier PXD012405.
 
 ## Code summary
 
